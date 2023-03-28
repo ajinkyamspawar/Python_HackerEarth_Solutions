@@ -1,4 +1,4 @@
-Q1: Hackerearth Solution to find out minimum number from an array/.
+Q1: Hackerearth Solution to find out minimum number from an array.
 
 def FindIt (arr):
     # Write your code here
